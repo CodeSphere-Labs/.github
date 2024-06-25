@@ -1,6 +1,4 @@
-## Hi there 👋
-
-🚀 Just trying to make cool open source products
+##  Just trying to make cool open source products 🚀
 
 <!--
 
