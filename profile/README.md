@@ -1,5 +1,4 @@
-## 🚀  Just trying to make cool open source products 🚀
-
+## 🚀  
 <!--
 
 **Here are some ideas to get you started:**
